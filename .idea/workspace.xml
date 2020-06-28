@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32c39d9-af9f-4e9e-b34b-fdd4ff0e2fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/springbootstarter/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/springbootstarter/topic/TopicController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/springbootstarter/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/springbootstarter/topic/TopicService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springbootstarter/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/springbootstarter/topic/TopicController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/springbootstarter/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/springbootstarter/topic/TopicService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +29,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1drGd75vyUZozmiK9R0KlrIIYuP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -46,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CourseApiApp">
     <configuration name="CourseApiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.springbootstarter.CourseApiApp" />
       <module name="springBasic API" />
@@ -56,6 +57,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseApiApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springBasic API" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.springbootstarter.CourseApiApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,12 +89,16 @@
       <workItem from="1593233747053" duration="7685000" />
       <workItem from="1593324608460" duration="1036000" />
       <workItem from="1593328828936" duration="2316000" />
-      <workItem from="1593355500296" duration="594000" />
+      <workItem from="1593355500296" duration="1968000" />
+      <workItem from="1593359108316" duration="391000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="212" y="0" key="#Project_Structure" timestamp="1593186326430">
@@ -97,25 +109,29 @@
       <screen x="0" y="0" width="1237" height="657" />
     </state>
     <state x="425" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1237.657@0.0.1237.657" timestamp="1593234329052" />
-    <state width="1195" height="238" key="GridCell.Tab.0.bottom" timestamp="1593331486135">
+    <state width="1195" height="238" key="GridCell.Tab.0.bottom" timestamp="1593359503124">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1195" height="238" key="GridCell.Tab.0.bottom/0.0.1237.657@0.0.1237.657" timestamp="1593331486135" />
-    <state width="1195" height="238" key="GridCell.Tab.0.center" timestamp="1593331486135">
+    <state width="1195" height="238" key="GridCell.Tab.0.bottom/0.0.1237.657@0.0.1237.657" timestamp="1593359503124" />
+    <state width="1195" height="238" key="GridCell.Tab.0.center" timestamp="1593359503124">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1195" height="238" key="GridCell.Tab.0.center/0.0.1237.657@0.0.1237.657" timestamp="1593331486135" />
-    <state width="1195" height="238" key="GridCell.Tab.0.left" timestamp="1593331486135">
+    <state width="1195" height="238" key="GridCell.Tab.0.center/0.0.1237.657@0.0.1237.657" timestamp="1593359503124" />
+    <state width="1195" height="238" key="GridCell.Tab.0.left" timestamp="1593359503124">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1195" height="238" key="GridCell.Tab.0.left/0.0.1237.657@0.0.1237.657" timestamp="1593331486135" />
-    <state width="1195" height="238" key="GridCell.Tab.0.right" timestamp="1593331486135">
+    <state width="1195" height="238" key="GridCell.Tab.0.left/0.0.1237.657@0.0.1237.657" timestamp="1593359503124" />
+    <state width="1195" height="238" key="GridCell.Tab.0.right" timestamp="1593359503124">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
-    <state width="1195" height="238" key="GridCell.Tab.0.right/0.0.1237.657@0.0.1237.657" timestamp="1593331486135" />
+    <state width="1195" height="238" key="GridCell.Tab.0.right/0.0.1237.657@0.0.1237.657" timestamp="1593359503124" />
     <state x="130" y="0" key="SettingsEditor" timestamp="1593234950010">
       <screen x="0" y="0" width="1237" height="657" />
     </state>
     <state x="130" y="0" key="SettingsEditor/0.0.1237.657@0.0.1237.657" timestamp="1593234950010" />
+    <state x="95" y="62" key="new project wizard" timestamp="1593358162854">
+      <screen x="0" y="0" width="1237" height="657" />
+    </state>
+    <state x="95" y="62" key="new project wizard/0.0.1237.657@0.0.1237.657" timestamp="1593358162854" />
   </component>
 </project>
